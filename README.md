@@ -1,2 +1,2 @@
 # my-first-repo
-Account for Meta iOS course
+Repo for Meta iOS course
